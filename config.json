@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filterdarse",
+        "uuid": 1788655,
+        "checksum": "6l1zq"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
